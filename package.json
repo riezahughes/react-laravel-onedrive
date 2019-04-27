@@ -23,5 +23,10 @@
         "resolve-url-loader": "^2.3.1",
         "sass": "^1.15.2",
         "sass-loader": "^7.1.0"
+    },
+    "dependencies": {
+        "@microsoft/file-browser": "^1.0.0-preview.0",
+        "react-router": "^5.0.0",
+        "react-router-dom": "^5.0.0"
     }
 }
